@@ -1,0 +1,41 @@
+/*
+    Document   : style
+    Created on : Jun 8, 2017, 1:25:43 PM
+    Author     : Desi Rima Melany
+*/
+
+root {
+display: block;
+}
+body {
+font-family: Century, Malgun Gothic, sans-serif; font-size: smaller;
+padding: 70px; color: navy;
+}
+
+h1 {
+text-align: center; letter-spacing: 6px; font-size: 1.8em; color: darkred;
+font-weight: normal; width: 450px;
+}
+
+table {
+width: 610px; padding: 4px;
+background-color: darkkhaki;
+}
+
+th {
+text-align: center; border-bottom: 2px solid;
+}
+
+td {
+padding: 8px;
+}
+
+a:link {
+color: #000000;
+font-weight: normal; text-decoration: none;
+}
+
+a:link:hover { color: #be7429;
+font-weight: normal;
+text-decoration: underline;
+}
